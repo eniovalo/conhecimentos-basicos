@@ -1,4 +1,4 @@
 # conhecimentos-basicos
 Conhecimentos básicos da vida.
 
-- [Tecnologia](tecnologia.md)
+- [Tecnologia](tecnologia/tecnologia.md)
