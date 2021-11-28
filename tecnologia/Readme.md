@@ -7,3 +7,4 @@
 ## Desenvolvimento
 - Monitoração:
   - [Grafana](grafana.md)
+  - [Prometheus](prometheus.md)
