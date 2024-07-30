@@ -10,3 +10,5 @@
 - Monitoração:
   - [Grafana](grafana.md)
   - [Prometheus](prometheus.md)
+- Sistema Operacional:
+  - [Windows](windows.md)
